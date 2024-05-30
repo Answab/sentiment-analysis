@@ -32,7 +32,7 @@ Social Network Analysis and Mining (2023), Volume 13 : Article 7
 
 ### Results and Findings
 
-<img src="https://github.com/Answab/sentiment-analysis/blob/main/Graphs/2Cimage.png" width="200" height="100">
+<img src="https://github.com/Answab/sentiment-analysis/blob/main/Graphs/2Cresult.png">
 
 
 
