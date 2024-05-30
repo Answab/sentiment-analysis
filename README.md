@@ -32,6 +32,8 @@ Social Network Analysis and Mining (2023), Volume 13 : Article 7
 
 ### Results and Findings
 
+(/assets/images/2Cimage.png)
+
 
 
 
