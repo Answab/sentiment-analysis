@@ -11,6 +11,7 @@ Removal of stopwords, usernames, special characters and digits, also the convers
 #### 2. Lemmatization
 Reducing the words into their base form called lemma (eg : talking/talks/talked = talk)
 #### 3. Sentiment Labelling
-_TextBlob_ libabry in python is used assign value for tweets between -1 and +1 where, -1 is extremely negative and +1 is extremely positive. 
+__TextBlob__ libabry in python is used assign value for tweets between -1 and +1 where, -1 is extremely negative and +1 is extremely positive. Based on the polarity values assigned two labelled datasets are created : 
+* Two-class dataset : Tweets with polarity scores [-1,0] are labelled as negative and [0,1] are labelled as positive.
 
 
