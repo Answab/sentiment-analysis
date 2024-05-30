@@ -26,9 +26,8 @@ Three different machine learning models are used for the sentiment classificatio
 The project is implemented python. 80% of the dataset is used for training and 20% is used for testing.
 
 ### Reference
-The inspiration for doing this project is the following resreach paper :
-[A reliable sentiment analysis for classification of tweets in social networks](https://rdcu.be/dJrbY)
- Social Network Analysis and Mining (2023) 13:7
+The inspiration for doing this project is the following resreach paper : <br>
+[A Reliable Sentiment Analysis for Classification of Tweets in Social Networks](https://rdcu.be/dJrbY), Social Network Analysis and Mining (2023) 13:7
 
 
 
