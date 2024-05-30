@@ -27,7 +27,8 @@ The project is implemented python. 80% of the dataset is used for training and 2
 
 ### Reference
 The inspiration for doing this project is the following resreach paper :
-[A reliable sentiment analysis for classification of tweets in social networks, Social Network Analysis and Mining (2023) 13:7](https://rdcu.be/dJrbY)
+[A reliable sentiment analysis for classification of tweets in social networks](https://rdcu.be/dJrbY)
+ Social Network Analysis and Mining (2023) 13:7
 
 
 
