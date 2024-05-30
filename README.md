@@ -23,7 +23,7 @@ Three different machine learning models are used for the sentiment classificatio
 3. Bidirectional Long Short-Term Memory (BiLSTM)
 
 ### Implementation
-The project is implemented python. 80% of the dataset is used for training and 20% is used for testing.
+The project is implemented in python. 80% of the dataset is used for training and 20% is used for testing.
 
 ### Reference
 The inspiration for doing this project is the following research paper : <br>
