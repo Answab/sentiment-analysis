@@ -32,7 +32,7 @@ Social Network Analysis and Mining (2023), Volume 13 : Article 7
 
 ### Results and Findings
 
-![Comparison of the performances of various learning models on two-class dataset](https://github.com/Answab/sentiment-analysis/blob/main/Graphs/2Cimage.png)
+<img src="https://your-image-url.type](https://github.com/Answab/sentiment-analysis/blob/main/Graphs/2Cimage.png" width="100" height="100">
 
 
 
