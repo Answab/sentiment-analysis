@@ -20,12 +20,14 @@ Term Frequency - Inverse Document Frequency (TF-IDF) vectorizer is used to conve
 Three different machine learning models are used for the sentiment classification.
 1. Decision Tree
 2. Random Forest
-3. Bidirectional Long Short Term Memory
+3. Bidirectional Long Short-Term Memory (BiLSTM)
 
 ### Implementation
 The project is implemented python. 80% of the dataset is used for training and 20% is used for testing.
 
-### References
+### Reference
+The inspiration for doing this project is the following resreach paper :
+[A reliable sentiment analysis for classification of tweets in social networks, Social Network Analysis and Mining (2023) 13:7](https://rdcu.be/dJrbY)
 
 
 
