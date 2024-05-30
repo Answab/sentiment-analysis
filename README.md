@@ -25,18 +25,18 @@ Three different machine learning models are used for the sentiment classificatio
 ### Implementation
 The project is implemented in python. 80% of the dataset is used for training and 20% is used for testing.
 
-### Reference
-The inspiration for doing this project is the following research paper : <br>
-[A Reliable Sentiment Analysis for Classification of Tweets in Social Networks](https://rdcu.be/dJrbY) <br>
-Social Network Analysis and Mining (2023), Volume 13 : Article 7
-
 ### Result
 A sample result is displayed in the following image : 
 <img src="https://github.com/Answab/sentiment-analysis/blob/main/Graphs/2Cresult.png">
 
 ### Findings
-Comparison of performances of various learning models on the two class dataset : [2 Class Dataset](https://github.com/Answab/sentiment-analysis/blob/main/Graphs/2Cimage.png)
+Comparison of performances of various learning models on the two class dataset : [2 Class Dataset](https://github.com/Answab/sentiment-analysis/blob/main/Graphs/2Cimage.png) <br>
 Comparison of performances of various learning models on the three class dataset : [3 Class Dataset](https://github.com/Answab/sentiment-analysis/blob/main/Graphs/3Cimage.png)
+
+### Reference
+The inspiration for doing this project is the following research paper : <br>
+[A Reliable Sentiment Analysis for Classification of Tweets in Social Networks](https://rdcu.be/dJrbY) <br>
+Social Network Analysis and Mining (2023), Volume 13 : Article 7
 
 
 
